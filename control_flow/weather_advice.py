@@ -7,4 +7,4 @@ elif weather == "cold":
     clothing_recommmendation = "Make sure to wear a warm coat and a scarf."
 else:
     clothing_recommmendation = "Sorry, I don't have recommmendations for this weather."
-print(clothing_recommmendation) # update
+print(clothing_recommmendation) # updat
